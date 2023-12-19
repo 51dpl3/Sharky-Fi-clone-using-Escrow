@@ -6,10 +6,10 @@ skip-lint = false
 nft_lend_borrow = "DnjwprB8GxjKQgFMFx8FtvaM43jSAEv9FbGwJUz8PDJi"
 
 [registry]
-url = "https://api.apr.dev"
+url = "<https://api.apr.dev>"
 
 [provider]
-cluster = "Localnet"
+cluster = "Devnet"
 wallet = "~/.config/solana/id.json"
 
 [scripts]
